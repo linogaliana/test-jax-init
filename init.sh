@@ -1,3 +1,4 @@
 #!/bin/bash
 
-pip install jax
+pip install --upgrade pip
+pip install --upgrade "jax[cpu]"
